@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "0ab8f3c933136807",
+    "type": "split",
+    "children": [
+      {
+        "id": "eada99eedcba14a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54296ba777b56100",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Day 2 group 19 - S214809, s225044.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Day 2 group 19 - S214809, s225044"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4eda12606e613ece",
+    "type": "split",
+    "children": [
+      {
+        "id": "18994a567fc6de59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f59346ecdf0e5385",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f624fff94378ba9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8b2a4f3df3f50027",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f5ffc76d9c7ef62",
+    "type": "split",
+    "children": [
+      {
+        "id": "95e69ba5923e67e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17da465aeb315885",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day 2 group 19 - S214809, s225044.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Day 2 group 19 - S214809, s225044"
+            }
+          },
+          {
+            "id": "f744266a6a2aceaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day 2 group 19 - S214809, s225044.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Day 2 group 19 - S214809, s225044"
+            }
+          },
+          {
+            "id": "496ae982287527c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ccf5ec7e2db7b652",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day 2 group 19 - S214809, s225044.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Day 2 group 19 - S214809, s225044"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "54296ba777b56100",
+  "lastOpenFiles": [
+    "Day 2 group 19 - S214809, s225044.md",
+    "Day 2 group 19 - S214809, s225044.pdf",
+    "Day 2.pdf"
+  ]
+}
