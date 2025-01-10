@@ -1,0 +1,5 @@
+PROJECT_NAME = "LED Game"
+INPUT = e12.cpp
+OUTPUT_DIRECTORY = doc
+EXTRACT_ALL = YES
+GENERATE_LATEX = NO    # unless you want LaTeX output too
